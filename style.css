@@ -12,7 +12,7 @@ header {
 }
 
 main {
-    background: #cf7b7b;
+    background: #660d0d;
 }
 
 nav {
@@ -71,7 +71,7 @@ nav a:hover {
 
 .produtos li:hover h2 {
     font-size: 40px;
-    color: #a108bc;
+    color: #580966;
 }
 
 .produtos h2 {
